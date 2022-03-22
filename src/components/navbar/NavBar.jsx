@@ -91,12 +91,6 @@ function NavBar(props) {
                                 </a>
                             </li>
                             <li>
-                                <a href="/communities" className="navbarListItem">
-                                    <PeopleIcon className="icon"/>
-                                    <span>Communities</span>
-                                </a>
-                            </li>
-                            <li>
                                 <a href="/tunes" className="navbarListItem">
                                     <PlayCircleFilledIcon className="icon"/>
                                     <span>Tunes</span>
@@ -172,12 +166,7 @@ function NavBar(props) {
                                     <span>Posts</span>
                                 </a>
                             </li>
-                            <li>
-                                <a href="/communities" className="navbarListItem">
-                                    <PeopleIcon className="icon"/>
-                                    <span>Communities</span>
-                                </a>
-                            </li>
+
                             <li>
                                 <a href="/tunes" className="navbarListItem">
                                     <PlayCircleFilledIcon className="icon"/>
